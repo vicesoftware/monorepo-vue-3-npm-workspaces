@@ -1,0 +1,8 @@
+{
+    "name": "vue-common-test",
+    "private": true,
+    "workspaces": [
+      "webapp", 
+      "common"
+    ]
+  }
